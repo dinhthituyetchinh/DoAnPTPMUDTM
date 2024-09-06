@@ -30,7 +30,7 @@
 ### Yêu cầu 
 <p>AI: Dự báo doanh thu  </p>
 
-<p>Web: MVC ASP, LinQ</p>
+<p>Web: MVC ASP</p>
 <p>Ngôn ngữ: Javascript, C# </p>
 <p>Framework: Bootstrap</p>
 
@@ -38,13 +38,13 @@
 
 | STT | Nghiệp vụ | Phân công  |
 |----------------|--------------------|--------------------|
-|  1  |  |    |
-|  2  |  |    |
-|  3  |    |   |
-|  4  |  |   |
-|  5  |   |   |
-|  6 |  |   |
-|  7 |  |    |
+|  1  | Tìm kiếm sản phẩm |    |
+|  2  | Đăng nhập đăng ký |    |
+|  3  | Xem thông tin chi tiết|   |
+|  4  | Quản lý thông tin tài khoản |   |
+|  5  |  Mua hàng |   |
+|  6 | Thanh toán |   |
+|  7 | Đánh giá|    |
 
 
 <p>App: Winform </p>
@@ -54,13 +54,15 @@
 |----------------|--------------------|--------------------|
 |  1  |  Đăng nhập/đăng xuất |   |
 |  2  | Phân quyền  |  |
-|  3  |    |    |
-|  4  | |    |
+|  3  |  Quản lý loại , đồ uống  |    |
+|  4  | Quản lý đặt hàng |   |
 |  5  |  Quản lý khách hàng |   |
 |  6  |   Quản lý tin tức |   |
 |  7  |   Thống kê |   |
 |  8  |   Báo cáo |   |
-|  9  |  |   |
+|  9  | Quản lý giao hàng |   |
+|  10  | Quản lý doanh thu |   |
+|  11  | Quản lý giỏ hàng |   |
 
 
 ## Chức năng
